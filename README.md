@@ -1,2 +1,2 @@
-# veri-g-rselle-tirme
+# verigorsellestirme
 sütun grafiği
